@@ -1,0 +1,78 @@
+[
+    {
+        "name": "The Art",
+        "location": "Odessa",
+        "speaker": "Jakob",
+        "type": "paid",
+        "time": {
+            "start": "2023-07-17T14:30:00",
+            "end": "2023-07-18T14:50:00"
+        }
+    },
+    
+    {
+        "name": "Mining for Profit",
+        "location": "Kyiv",
+        "speaker": "Jakob",
+        "type": "vip",
+        "time": {
+            "start": "2023-08-17T14:30:00",
+            "end": "2023-09-18T14:50:00"
+        }
+    },
+    
+    {
+        "name": "Invest",
+        "location": "Dnipro",
+        "speaker": "Jakob",
+        "type": "free",
+        "time": {
+            "start": "2023-03-17T14:30:00",
+            "end": "2023-03-19T14:50:00"
+        }
+    },
+    
+    {
+        "name": "Deep Space Horrors",
+        "location": "Odessa",
+        "speaker": "Jakob",
+        "type": "free",
+        "time": {
+            "start": "2023-02-15T14:30:00",
+            "end": "2023-02-13T14:50:00"
+        }
+    },
+    
+    {
+        "name": "Inves",
+        "location": "Odessa",
+        "speaker": "Jakob",
+        "type": "free",
+        "time": {
+            "start": "2023-02-17T14:30:00",
+            "end": "2023-02-19T14:50:00"
+        }
+    },
+
+    {
+        "name": "The Art",
+        "location": "Kirovograd",
+        "speaker": "Jakob",
+        "type": "vip",
+        "time": {
+            "start": "2023-02-17T14:30:00",
+            "end": "2023-04-14T14:50:00"
+        }
+    },
+
+    {
+        "name": "Deep Space Horrors",
+        "location": "Kyiv",
+        "speaker": "Jakob",
+        "type": "paid",
+        "time": {
+            "start": "2023-02-17T14:30:00",
+            "end": "2023-04-12T14:50:00"
+        }
+    }
+]
