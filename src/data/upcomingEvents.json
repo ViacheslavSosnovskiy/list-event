@@ -1,4 +1,14 @@
-[
+[   
+    {
+        "name": "Money",
+        "location": "Poltava",
+        "speaker": "Jakob",
+        "type": "free",
+        "time": {
+            "start": "2023-02-14T14:30:00",
+            "end": "2023-02-19T14:50:00"
+        }
+    },
     {
         "name": "The Art",
         "location": "Odessa",
@@ -44,7 +54,7 @@
     },
     
     {
-        "name": "Inves",
+        "name": "Inves and Money",
         "location": "Odessa",
         "speaker": "Jakob",
         "type": "free",
@@ -55,7 +65,7 @@
     },
 
     {
-        "name": "The Art",
+        "name": "The Masterpies",
         "location": "Kirovograd",
         "speaker": "Jakob",
         "type": "vip",
@@ -66,7 +76,7 @@
     },
 
     {
-        "name": "Deep Space Horrors",
+        "name": "Deep Space",
         "location": "Kyiv",
         "speaker": "Jakob",
         "type": "paid",
